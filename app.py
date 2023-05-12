@@ -16,7 +16,8 @@ app.secret_key = generate_secret_key()
 
 # ipapi API endpoint
 IP_GEOLOCATION_API = 'http://api.ipapi.com/'
-API_KEY = "-"  # Replace with your actual API key
+API_KEY = "-"  bec1d69a3263efc7c32133c1662ed5d5
+
 
 # with image
 # NOTE: you could remove this part of code if you don't want it.
